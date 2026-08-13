@@ -1,0 +1,6 @@
+{
+  "name": "JavaStore E-Commerce Platform",
+  "description": "Full-Stack Online Shopping Platform & Internship Submission Suite for Task JV-EC-001 (Spring Boot, MySQL, Thymeleaf & React E-Commerce Storefront)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
